@@ -1,0 +1,7 @@
+{
+  "item.ceramicbucket.ceramic_bucket": "Ведро из керамики",
+  "item.ceramicbucket.ceramic_entity_bucket": "%s в ведре из керамики",
+  "item.ceramicbucket.ceramic_milk_bucket": "Ведро из керамики с молоком",
+  "item.ceramicbucket.filled_ceramic_bucket": "%s в ведре из керамики",
+  "item.ceramicbucket.unfired_clay_bucket": "Ведро из необожженной глины"
+}
